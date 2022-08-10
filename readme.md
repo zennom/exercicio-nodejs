@@ -1,7 +1,7 @@
 # Exercício cadastrar Novos Usuários no Banco de Dados - NodeJS
 
 ### Instale as depêndencias:
-1. `npm install`
+1. `npm init`
 2. `npm install express mustache-express dotenv`
 
 

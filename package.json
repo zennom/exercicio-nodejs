@@ -1,0 +1,20 @@
+{
+  "name": "exercicio-nodejs",
+  "version": "1.0.0",
+  "description": "1. `npm install express mustache-express dotenv`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon -e ts,json,mustache server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zennom/exercicio-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zennom/exercicio-nodejs/issues"
+  },
+  "homepage": "https://github.com/zennom/exercicio-nodejs#readme"
+}
